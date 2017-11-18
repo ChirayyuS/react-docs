@@ -1,12 +1,7 @@
-# docs
+# React docs moved
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/apollographql/react-docs.svg)](https://greenkeeper.io/)
+See them live at [https://www.apollographql.com/docs/react/](https://www.apollographql.com/docs/react/)
 
-To run:
+Contribute at [https://github.com/apollographql/apollo-client](https://github.com/apollographql/apollo-client)
 
-```
-git clone --recursive https://github.com/apollographql/react-docs.git
-cd react-docs
-npm install
-npm start
-```
+The code here is for Apollo Client 1.x
